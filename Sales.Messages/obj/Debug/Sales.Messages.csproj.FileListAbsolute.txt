@@ -1,0 +1,5 @@
+D:\Develop\Projects\DDDesign\Sales.Messages\bin\Debug\Sales.Messages.dll
+D:\Develop\Projects\DDDesign\Sales.Messages\bin\Debug\Sales.Messages.pdb
+D:\Develop\Projects\DDDesign\Sales.Messages\obj\Debug\Sales.Messages.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\DDDesign\Sales.Messages\obj\Debug\Sales.Messages.dll
+D:\Develop\Projects\DDDesign\Sales.Messages\obj\Debug\Sales.Messages.pdb

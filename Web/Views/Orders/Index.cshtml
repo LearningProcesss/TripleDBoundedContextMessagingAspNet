@@ -1,0 +1,24 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post" action="@Url.Action("Place", "Orders")">
+        <p>
+            UserId: <input type="text" name="userId" />
+        </p>
+        <p>
+            ProductIds: <input type="text" name="productIds" />
+        </p>
+        <p>
+            ShippingTypeId: <input type="text" name="shippingTypeId" />
+        </p>
+        <input type="submit"  value="Place Order"/>
+    </form>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "89f2a60b5ff9ff1f98f548043091b3d3631a9c15"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Sales.Orders.OrderCreated/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.1",
+          "NServiceBus.Host": "4.3.3"
+        },
+        "runtime": {
+          "Sales.Orders.OrderCreated.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "NServiceBus/4.3.3": {
+        "dependencies": {
+          "NServiceBus.Interfaces": "4.3.3"
+        },
+        "runtime": {
+          "lib/net40/NServiceBus.Core.dll": {}
+        }
+      },
+      "NServiceBus.Host/4.3.3": {
+        "dependencies": {
+          "NServiceBus": "4.3.3"
+        },
+        "runtime": {
+          "lib/net40/NServiceBus.Host.exe": {}
+        }
+      },
+      "NServiceBus.Interfaces/4.3.3": {
+        "runtime": {
+          "lib/net40/NServiceBus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sales.Orders.OrderCreated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "NServiceBus/4.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H5JH3jtFAo2XX/313QaeXIFt8ZCtJYOSKr4XwLRRDG1+Riw6nmDYWGFjO1xTVISb0jy+5e5Z9vza2871GkqnzA==",
+      "path": "nservicebus/4.3.3",
+      "hashPath": "nservicebus.4.3.3.nupkg.sha512"
+    },
+    "NServiceBus.Host/4.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ve17dQh5N4l0nkCkLBh/VzJsJlThpmWLube6QgWM+rdYXPeDyvdS2pqPj86qivXVlPMYPqJFFhtYDBfMcLPVIQ==",
+      "path": "nservicebus.host/4.3.3",
+      "hashPath": "nservicebus.host.4.3.3.nupkg.sha512"
+    },
+    "NServiceBus.Interfaces/4.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hXUYf/+N4cfdmHrAaCi78Lhq8/c6DJMjW2F83kJLkPiH24TpQKPjsbm99Sm68OujTEV7ldTsN8PwW0o41m7Z2A==",
+      "path": "nservicebus.interfaces/4.3.3",
+      "hashPath": "nservicebus.interfaces.4.3.3.nupkg.sha512"
+    }
+  }
+}

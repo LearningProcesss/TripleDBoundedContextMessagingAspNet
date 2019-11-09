@@ -1,0 +1,6 @@
+D:\Develop\Projects\DDDesign\Billing.Messages\bin\Debug\Billing.Messages.dll
+D:\Develop\Projects\DDDesign\Billing.Messages\bin\Debug\Billing.Messages.pdb
+D:\Develop\Projects\DDDesign\Billing.Messages\obj\Debug\Billing.Messages.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\DDDesign\Billing.Messages\obj\Debug\Billing.Messages.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\DDDesign\Billing.Messages\obj\Debug\Billing.Messages.dll
+D:\Develop\Projects\DDDesign\Billing.Messages\obj\Debug\Billing.Messages.pdb

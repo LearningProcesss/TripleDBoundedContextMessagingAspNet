@@ -1,0 +1,9 @@
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\bin\Debug\netstandard2.0\Sales.Orders.OrderCreated.deps.json
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\bin\Debug\netstandard2.0\Sales.Orders.OrderCreated.dll
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.AssemblyInfoInputs.cache
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.AssemblyInfo.cs
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\bin\Debug\netstandard2.0\Sales.Orders.OrderCreated.pdb
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.dll
+D:\Develop\Projects\DDDesign\Sales.Orders.OrderCreated\obj\Debug\netstandard2.0\Sales.Orders.OrderCreated.pdb

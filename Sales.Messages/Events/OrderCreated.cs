@@ -21,4 +21,9 @@ namespace Sales.Messages.Events
 
         public double Amount { get; set; }
     }
+
+    public class OrderCreated_V2 : OrderCreated
+    {
+        public string AddressId { get; set; }
+    }
 }

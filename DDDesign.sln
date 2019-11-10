@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billing.Payments.PaymentAcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billing.Messages", "Billing.Messages\Billing.Messages.csproj", "{1730929C-B9D8-41D3-82DB-8F46883419A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.BusinessCustomers.ShippingArranged", "Shipping.BusinessCustomers.ShippingArranged\Shipping.BusinessCustomers.ShippingArranged.csproj", "{BE6AB00E-F422-42BB-9661-7A88DD84A7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.Messages", "Shipping.Messages\Shipping.Messages.csproj", "{91F2D11C-4F1E-4E9A-9D7B-4ED5C7676310}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{1730929C-B9D8-41D3-82DB-8F46883419A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1730929C-B9D8-41D3-82DB-8F46883419A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1730929C-B9D8-41D3-82DB-8F46883419A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6AB00E-F422-42BB-9661-7A88DD84A7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6AB00E-F422-42BB-9661-7A88DD84A7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6AB00E-F422-42BB-9661-7A88DD84A7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6AB00E-F422-42BB-9661-7A88DD84A7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F2D11C-4F1E-4E9A-9D7B-4ED5C7676310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F2D11C-4F1E-4E9A-9D7B-4ED5C7676310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F2D11C-4F1E-4E9A-9D7B-4ED5C7676310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F2D11C-4F1E-4E9A-9D7B-4ED5C7676310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

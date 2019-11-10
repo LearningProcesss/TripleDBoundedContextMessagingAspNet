@@ -1,0 +1,6 @@
+D:\Develop\Projects\DDDesign\Shipping.Messages\bin\Debug\Shipping.Messages.dll
+D:\Develop\Projects\DDDesign\Shipping.Messages\bin\Debug\Shipping.Messages.pdb
+D:\Develop\Projects\DDDesign\Shipping.Messages\obj\Debug\Shipping.Messages.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\DDDesign\Shipping.Messages\obj\Debug\Shipping.Messages.dll
+D:\Develop\Projects\DDDesign\Shipping.Messages\obj\Debug\Shipping.Messages.pdb
+D:\Develop\Projects\DDDesign\Shipping.Messages\obj\Debug\Shipping.Messages.csprojResolveAssemblyReference.cache
